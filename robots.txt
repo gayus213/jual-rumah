@@ -1,0 +1,69 @@
+# block the bad bots
+User-agent: YakazBot
+Disallow: /
+
+User-agent: trovitBot
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-agent: oodlebot
+Disallow: /
+
+User-agent: cbBot
+Disallow: /
+
+User-agent: spider
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: Aboundexbot
+Disallow: /
+
+User-agent: CariBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: *
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/sitemap-base.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/buy-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/rent-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/new-property-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/article-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/property-agent-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/property-agency-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/new-property-developer-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/other-page-sitemap-index.xml
+Sitemap: https://jual-rumah.herokuapp.com/host-https-www.rumah123.com/panduan-properti-sitemap-index.xml
